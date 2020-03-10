@@ -15,7 +15,8 @@ The dataset comes from a Turkey e-commerce company www.gozalangroup.com.tr/.  I 
 The dataset consists of 12,330 customer sessions (rows), 10 numerical and 8 categorical variables (columns). I will use ‘Revenue’ (True or False) variable as my target variable. The other 17 variables will be my predictor variables, customer's attributes, or features. I will engineer more attributes before modeling. This dataset was formed in a one-year period not including holidays, special days, or specific campaigns. The size of the data set is adequate for the data science tasks I plan on performing on it.
 
 ## Research Questions
-- What are the relative important customer attributes that contribute to a customers' decision to purchase an item?
+- What are the relatively important customer attributes contributing to customers’ decision to purchase a product?
+
 - Will a customer purchase a product or not on a e-commerce website?
 
 ## Insights from EDA
