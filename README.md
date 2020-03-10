@@ -17,7 +17,7 @@ The dataset consists of 12,330 customer sessions (rows), 10 numerical and 8 cate
 
 ## Insights
 
-
+![](images/Rev_Exit.PNG)
 
 
 
