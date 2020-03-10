@@ -17,7 +17,12 @@ The dataset consists of 12,330 customer sessions (rows), 10 numerical and 8 cate
 
 ## Insights
 
-![](images/Rev_Exit.PNG)
+![](images/Rev_Exit.PNG)    
 
+This violin plot shows customers that purchase a product is not on the website as long as those that do not purchase an item.  This indicates people who purchase an item generally have an idea what they want, so they do not need to shop on the website as long.  Those customers who are not sure what they want and are shopping to gather information stay on the website longer and do not purchase.  The company can consider strategies to help customers make a decision to purchase through incentives.
+
+![](images/Dist_Months.PNG)
+
+The bar graph shows the distributions of the months customers are active and inactive on the website.  We can see the months customers are on the website longest are May and November.  In May, people are shopping for items for summer vacations and summer season.  In November, people are shopping to purchase items for the holidays.  This is valuable information for the company to use in creating marketing campaigns.
 
 
